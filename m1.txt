@@ -1,3 +1,0 @@
-from local
-from remote
-from remote again
