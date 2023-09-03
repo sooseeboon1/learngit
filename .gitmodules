@@ -1,0 +1,7 @@
+[submodule "tennisclub1"]
+	path = tennisclub1
+	url = https://github.com/sooseeboon1/tennishub
+[submodule "tennisclub2"]
+	path = tennisclub2
+	url = https://github.com/sooseeboon1/tennishub
+	branch = main2
